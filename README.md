@@ -4,7 +4,7 @@ Simple python tool for downloading youtube videos
 
 # Linux Installation
 
-git clone https://github.com/tonythebughunter/downloader.py
+git clone https://github.com/tonythebughunter/downloader
 
 cd downloader
 
