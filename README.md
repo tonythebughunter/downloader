@@ -1,4 +1,4 @@
-# downloader.py
+# Downloader.py
 
 Simple python tool for downloading youtube videos
 
@@ -10,6 +10,11 @@ cd downloader
 
 pip install -r requirements.txt
 
-# usage 
+# Windows Installation
+
+Prerequisites: python, pytube, tqtd
+ie pip install pytube/tqdm
+
+# Usage 
 
 python downloader.py
